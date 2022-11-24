@@ -58,12 +58,17 @@
 <br/>
   <br/>
 
+🌼**Deploy**
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=Netlify&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000?style=flat&logo=Vercel&logoColor=white"/>
+  
+  <br/>
+  <br/>
+  
 🌼**Tool**
 
 <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat&logo=Webpack&logoColor=white"/>
 <img src="https://img.shields.io/badge/Babel-F9DC3E?style=flat&logo=Babel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=Netlify&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vercel-000?style=flat&logo=Vercel&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
 
   <br/>
