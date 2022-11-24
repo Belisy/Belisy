@@ -59,6 +59,7 @@
   <br/>
 
 🌼**Deploy**
+  
 <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=Netlify&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vercel-000?style=flat&logo=Vercel&logoColor=white"/>
   
