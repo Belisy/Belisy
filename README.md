@@ -9,10 +9,12 @@
 <!-- 🌼My Notion
 <a href=""><img src="https://img.shields.io/badge/notion-1DBF73?style=flat&logo=Notion&logoColor=white"/></a> -->
 
+<br/>   
 <br/>
 
 ## **Tech Stack**
 
+<br/>   
 <br/>
 
 🌼**Language**
@@ -22,8 +24,10 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
 
+  
+<br/>   
 <br/>
-
+  
 🌼**Library & Framework**
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
@@ -33,6 +37,7 @@
 <img src="https://img.shields.io/badge/React%20Query-FF4154?style=flat&logo=React%20Query&logoColor=white"/>
 
 <br/>
+  <br/>
 
 🌼**Style**
 
@@ -43,6 +48,7 @@
 <img src="https://img.shields.io/badge/Emotion-000?style=flat&logo=Eventbrite&logoColor=white"/>
 
 <br/>
+  <br/>
 
 🌼**DB**
 
@@ -51,6 +57,7 @@
 <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white"/>
 
 <br/>
+  <br/>
 
 🌼**Tool**
 
@@ -59,3 +66,5 @@
 <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=Netlify&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vercel-000?style=flat&logo=Vercel&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
+
+  <br/>
