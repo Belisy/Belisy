@@ -43,7 +43,6 @@
 <img src="https://img.shields.io/badge/Sass-1572B6?style=flat&logo=Sass&logoColor=white"/>
 <img src="https://img.shields.io/badge/styled%20components-DB7093?style=flat&logo=styled-components&logoColor=white"/>
 <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=Tailwind-CSS&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ant%20Design-0170FE?style=flat&logo=Ant-Design&logoColor=white"/>
 <img src="https://img.shields.io/badge/Emotion-000?style=flat&logo=Eventbrite&logoColor=white"/>
 
 <br/>
