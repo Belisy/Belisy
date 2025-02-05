@@ -4,7 +4,7 @@
 
 ## **Meme**
 
-🌈어제보다 발전한 오늘이 되기위해 노력하는 개발자입니다.
+<!-- 🌈어제보다 발전한 오늘이 되기위해 노력하는 개발자입니다. -->
 
 <!-- 🌼My Notion
 <a href=""><img src="https://img.shields.io/badge/notion-1DBF73?style=flat&logo=Notion&logoColor=white"/></a> -->
